@@ -65,11 +65,6 @@ Interested in how intelligent systems learn, recognize patterns, and solve real-
 
 I enjoy exploring technical challenges through research and experimentation.
 
-**Previous research:**
-- Ground Penetrating Radar (GPR) for water leakage detection
-- Pipeline network detection and evaluation
-- Renewable energy forecasting using deep learning
-
 </details>
 
 <details>
@@ -113,7 +108,6 @@ I also enjoy creative direction, collaborative projects, and bringing people tog
 | **Copirrot** | Wearables · Software | Driver drowsiness detection and smart alerts using Apple Watch and iPhone |
 | **yansoon** | SwiftUI · UX | An energy-based task timer designed around sustainable productivity |
 | **Solar Energy Forecasting** | Deep Learning · Research | Forecasting rooftop photovoltaic energy production |
-| **Water-Leak Detection** | GPR · Research | Exploring radar-based detection in pipeline networks |
 
 *Project links and demos will be added as repositories are published.*
 
